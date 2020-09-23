@@ -1,0 +1,8 @@
+{
+  "short_name": "Bitacora HHEE",
+  "name": "Bitacora Horas Extra",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

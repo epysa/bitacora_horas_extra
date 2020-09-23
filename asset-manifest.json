@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sie-android/Paginas/bitacora_horas_extra/static/css/main.90b6dc49.chunk.css",
+    "main.js": "/sie-android/Paginas/bitacora_horas_extra/static/js/main.dcdaf77e.chunk.js",
+    "main.js.map": "/sie-android/Paginas/bitacora_horas_extra/static/js/main.dcdaf77e.chunk.js.map",
+    "runtime-main.js": "/sie-android/Paginas/bitacora_horas_extra/static/js/runtime-main.209576af.js",
+    "runtime-main.js.map": "/sie-android/Paginas/bitacora_horas_extra/static/js/runtime-main.209576af.js.map",
+    "static/js/2.0f88c68d.chunk.js": "/sie-android/Paginas/bitacora_horas_extra/static/js/2.0f88c68d.chunk.js",
+    "static/js/2.0f88c68d.chunk.js.map": "/sie-android/Paginas/bitacora_horas_extra/static/js/2.0f88c68d.chunk.js.map",
+    "index.html": "/sie-android/Paginas/bitacora_horas_extra/index.html",
+    "precache-manifest.215e8b65f68854650a465cad7d0c8fbe.js": "/sie-android/Paginas/bitacora_horas_extra/precache-manifest.215e8b65f68854650a465cad7d0c8fbe.js",
+    "service-worker.js": "/sie-android/Paginas/bitacora_horas_extra/service-worker.js",
+    "static/css/main.90b6dc49.chunk.css.map": "/sie-android/Paginas/bitacora_horas_extra/static/css/main.90b6dc49.chunk.css.map",
+    "static/js/2.0f88c68d.chunk.js.LICENSE.txt": "/sie-android/Paginas/bitacora_horas_extra/static/js/2.0f88c68d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.209576af.js",
+    "static/js/2.0f88c68d.chunk.js",
+    "static/css/main.90b6dc49.chunk.css",
+    "static/js/main.dcdaf77e.chunk.js"
+  ]
+}
